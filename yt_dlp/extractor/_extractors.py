@@ -579,6 +579,7 @@ from .egghead import (
     EggheadLessonIE,
 )
 from .eighttracks import EightTracksIE
+from .einthusan import EinthusanIE
 from .eitb import EitbIE
 from .elementorembed import ElementorEmbedIE
 from .elonet import ElonetIE
